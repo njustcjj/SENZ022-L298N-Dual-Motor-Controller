@@ -59,6 +59,7 @@
 |IN3|Digital 8||
 |IN4|Digital 9||
 
+> 注意：当VS供电5V以上，且“板载5V使能”短接时，VD可以不供入电压。
 
 ![](https://github.com/njustcjj/SENZ022-L298N-Dual-Motor-Controller/blob/master/pic/SENZ022_pin.jpg "引脚定义") 
 

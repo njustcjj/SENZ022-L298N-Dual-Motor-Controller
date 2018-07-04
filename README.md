@@ -59,6 +59,8 @@
 |IN3|Digital 8||
 |IN4|Digital 9||
 
+> Note: When VS is powered with above 5V, and "EN 5V" is connected, then VD can be hung without input.
+
 ![](https://github.com/njustcjj/SENZ022-L298N-Dual-Motor-Controller/blob/master/pic/SENZ022_pin.jpg "Pin Definition") 
 
 #### Connecting Diagram
